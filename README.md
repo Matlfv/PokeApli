@@ -1,6 +1,6 @@
 
 # PokeApli:
-# Application d'une liste de 150 pokémon avec leur type, leure évolution, leure(s) faiblesse(s) et leure caractéristiques (poids, taille).
+# Application d'une liste de 150 pokémon avec leur type, leure évolution, leure(s) faiblesse(s) et leures caractéristiques (poids, taille).
 
 #Etape 1:
 #Ajout de librairies
